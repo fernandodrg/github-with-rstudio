@@ -4,3 +4,4 @@ x = x * 10
 y = 10
 y = y / 2
 print(x * y  + 1)
+print("mandei bem!")
